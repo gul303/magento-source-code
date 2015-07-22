@@ -1,0 +1,1 @@
+It is simply repository of Magento source code, to increase the speed of indexing by Google Code Search.
